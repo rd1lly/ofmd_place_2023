@@ -4,10 +4,10 @@
 {
 "name": "OFMD",
 "sources": [
-"https://raw.githubusercontent.com/rd1lly/ofmd_place_2023/test/ofmd2023_bingo2.png?width=26&height=20"
+"https://raw.githubusercontent.com/rd1lly/ofmd_place_2023/test/ofmd2023_bingo2.png?width=40&height=40"
 ],
-"x": 58,
-"y": 772
+"x": 44,
+"y": 771
 }
 ],
 "whitelist": [],
