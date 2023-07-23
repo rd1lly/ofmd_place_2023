@@ -1,0 +1,17 @@
+{
+"contact": "discord.gg/4aCH5uJe",
+"templates": [
+{
+"name": "OFMD",
+"sources": [
+"https://raw.githubusercontent.com/rd1lly/ofmd_place_2023/test/ofmd2023_bingo.png?width=26&height=20"
+],
+"x": 1825,
+"y": 163
+}
+],
+"whitelist": [],
+"blacklist": []
+}
+
+
