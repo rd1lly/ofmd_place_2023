@@ -1,0 +1,17 @@
+{
+"contact": "discord.gg/4aCH5uJe",
+"templates": [
+{
+"name": "OFMD",
+"sources": [
+"https://raw.githubusercontent.com/rd1lly/ofmd_place_2023/test/ofmd_taskbar.png?width=28&height=28"
+],
+"x": 1476,
+"y": 1973
+}
+],
+"whitelist": [],
+"blacklist": []
+}
+
+
